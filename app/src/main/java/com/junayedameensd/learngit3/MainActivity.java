@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void nameMethod() {
         name = "commit 1";
+        name = "merge master and branch1";
     }
 }
