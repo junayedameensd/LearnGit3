@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         setTitle("Commit 1");
         setTitle("Commit 2");
+        setTitle("Branch 1 Commit 1");
 
     }
 
